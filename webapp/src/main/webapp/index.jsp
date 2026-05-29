@@ -1,2 +1,2 @@
-<h2>To Test Local Agent in Azure Apps Applicayion </h2>
-<h3>Local Agent runs on Local Windows Host......!</h3>
+<h2>To Test Local Agent in Azure Apps Application on Tomcat Server</h2>
+<h3>Azure Local Agent runs on Windows Host System ...!</h3>
